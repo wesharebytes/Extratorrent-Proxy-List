@@ -18,6 +18,8 @@ The proxy method is a method of accessing blocked websites using an intermediary
 
 To use the proxy method for Extratorrent, you need to find a working proxy site or mirror site that can connect you to the original website. A proxy site or mirror site is a copy of the original website hosted on a different server or domain.
 
+![Extratorrent Proxy](https://github.com/wesharebytes/Extratorrent-Proxy-List/blob/master/extratorrent_proxy.png)
+
 
 # How to Unblock Extratorrent
 If the site is up and running, but it is blocked for you, you can easily [unblock Extratorrent.cc](http://wesharebytes.com/extratorrents-proxy-list-2020-working-proxies-to-unblock-extratorrents/) by following the simple tricks below.
