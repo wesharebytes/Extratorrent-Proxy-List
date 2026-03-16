@@ -7,6 +7,7 @@ Mirror sites work in a similar way, placing a copy of the site's original torren
 # List of Extratorrent Proxy / Mirror sites
 
 - https://extratorrent.st
+- https://extratorrent.unblockninja.st
 - https://extratorrent.proxyninja.org
 - https://extratorrent.proxyninja.net
 - https://extratorrent.ninjaproxy1.com
